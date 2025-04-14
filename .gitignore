@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Environments
+.env
+.envrc
+.venv/
+venv/
+*.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Data / outputs
+*.pth
+*.pt
+data/
+logs/
+outputs/
