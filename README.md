@@ -15,17 +15,17 @@ This is a project as part of a Deep Learning short course.
 
 ## ✅ Task Checklist
 
-- [ x ] Loaded the dataset from `torchvision.datasets`.
-- [ ] Used transforms or other `PyTorch` methods to convert the data to tensors, normalise, and flatten the data.
-- [ ] Created a `DataLoader` for my dataset.
-- [ ] Visualised the dataset using the provided function.
-- [ ] Used either training data or inverting any normalisation and flattening OR a second `DataLoader` without any normalisation or flattening.
-- [ ] Provided a brief justification of any necessary preprocessing steps or why no preprocessing is needed.
-- [ ] Used `PyTorch` to build a neural network to predict the class of each given input image.
-- [ ] Created an optimiser to update my network's weights.
-- [ ] Used the training `DataLoaderto` train my neural network.
-- [ ] Tuned my model hyperparameters and network architecture with at least 90% accuracy on the test set.
-- [ ] Used torch.saveto save my trained model.
+- [x] Loaded the dataset from `torchvision.datasets`.
+- [x] Used transforms or other `PyTorch` methods to convert the data to tensors, normalise, and flatten the data.
+- [x] Created a `DataLoader` for the dataset.
+- [x] Visualised the dataset using the provided function.
+- [x] Used either training data or inverting any normalisation and flattening OR a second `DataLoader` without any normalisation or flattening.
+- [x] Provided a brief justification of any necessary preprocessing steps or why no preprocessing is needed.
+- [x] Used `PyTorch` to build a neural network to predict the class of each given input image.
+- [x] Created an optimiser to update my network's weights.
+- [x] Used the training `DataLoaderto` train my neural network.
+- [x] Tuned the model hyperparameters and network architecture with at least 90% accuracy on the test set.
+- [x] Used torch.saveto save the trained model.
 
 ### Project Rubric
 
