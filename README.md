@@ -15,7 +15,7 @@ This is a project as part of a Deep Learning short course.
 
 ## ✅ Task Checklist
 
-- [x] Loaded the dataset from `torchvision.datasets`.
+- [ x ] Loaded the dataset from `torchvision.datasets`.
 - [ ] Used transforms or other `PyTorch` methods to convert the data to tensors, normalise, and flatten the data.
 - [ ] Created a `DataLoader` for my dataset.
 - [ ] Visualised the dataset using the provided function.
